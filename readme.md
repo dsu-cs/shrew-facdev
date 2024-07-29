@@ -1,6 +1,13 @@
 # SHREW
 Repo for the Software and Hardware Reverse Engineering Workshop (SHREW).
 
+## binaries
+
+The [binaries directory](https://github.com/dsu-cs/shrew-facdev/tree/main/binaries) has software reverse engineering exercises.
+ 
+## microbit
+The [microbit directory](https://github.com/dsu-cs/shrew-facdev/tree/main/microbit) contains sample projects for building binaries written with C++ or the Arduino framework. 
+
 ## Resources 
 * [The Hardware Hacking Handbook](https://nostarch.com/hardwarehacking)
 * [micro:bit Pinout](https://tech.microbit.org/hardware/edgeconnector/) - Edge connector and pin diagrams
