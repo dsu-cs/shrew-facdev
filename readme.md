@@ -1,14 +1,25 @@
 # SHREW
-Repo for the Software and Hardware Reverse Engineering Workshop (SHREW).
+Repo for the Software and Hardware Reverse Engineering Workshop (SHREW). 
 
-## binaries
+## Virtual Machines
+The following virtual machine images are set up with the requisite software for the workshop.
+* [Kali 2024.2 x86-64]() - for use with Intel-based processors.
+* [Kali 2024.2 ARM64]() - for use with ARM-based processors (e.g., Apple M2)
+
+### System Requirements
+* Processor cores: 2
+* Free disk space: 64 GB
+* RAM: 4 GB
+* USB-A 2.0/3.0 ports (or USB-C adapter)
+
+## Binaries
 
 The [binaries directory](https://github.com/dsu-cs/shrew-facdev/tree/main/binaries) has software reverse engineering exercises.
 
-## microbit
+## Microbit
 The [microbit directory](https://github.com/dsu-cs/shrew-facdev/tree/main/microbit) contains sample projects for building binaries written with C++ or the Arduino framework. 
 
-## resources 
+## Resources 
 * [The Hardware Hacking Handbook](https://nostarch.com/hardwarehacking)
 * [micro:bit Pinout](https://tech.microbit.org/hardware/edgeconnector/) - Edge connector and pin diagrams
 * [Platform IO IDE](https://platformio.org/platformio-ide) - VSCode plugin for writing embedded software (Arduino, MicroBit, etc.)
