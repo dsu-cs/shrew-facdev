@@ -19,12 +19,17 @@ The [binaries directory](https://github.com/dsu-cs/shrew-facdev/tree/main/binari
 Sample firmware from physical devices is located in the [firmware directory](https://github.com/dsu-cs/shrew-facdev/tree/main/firmware)
 
 ## Microbit
-The [microbit directory](https://github.com/dsu-cs/shrew-facdev/tree/main/microbit) contains sample projects for building binaries written with C++ or the Arduino framework. 
+The [microbit directory](https://github.com/dsu-cs/shrew-facdev/tree/main/microbit) contains sample projects for building binaries written with C++ or the Arduino framework and documentation on the nRF5280 chip.
+
+* [MakeCode](https://makecode.microbit.org) - browser app for writing micro:bit block code
+* [micro:bit Pinout](https://tech.microbit.org/hardware/edgeconnector/) - Edge connector and pin diagrams
+* [Nordic nRF52820 Documentation](https://www.nordicsemi.com/Products/nRF52820/Download#infotabs) - technical docs from the chip manufacture
+* [Python Online micro:bit IDE](https://python.microbit.org/v/3) - browser app writing for micro:bit Python
 
 ## Resources 
 * [The Hardware Hacking Handbook](https://nostarch.com/hardwarehacking)
-* [micro:bit Pinout](https://tech.microbit.org/hardware/edgeconnector/) - Edge connector and pin diagrams
-* [Platform IO IDE](https://platformio.org/platformio-ide) - VSCode plugin for writing embedded software (Arduino, MicroBit, etc.)
-  * [BBC micro:bit V2 Documentation](https://docs.platformio.org/en/latest/boards/nordicnrf52/bbcmicrobit_v2.html#frameworks)
-  * [Nordic nRF52 Documentation](https://github.com/platformio/platform-nordicnrf52/tree/develop) = PIO examples and docs
-* [Python Online micro:bit IDE](https://python.microbit.org/v/3) - browser app writing micro:bit Python
+
+* [Platform IO IDE (PIO)](https://platformio.org/platformio-ide) - VSCode plugin for writing embedded software (Arduino, MicroBit, etc.)
+  * [PIO BBC micro:bit V2](https://docs.platformio.org/en/latest/boards/nordicnrf52/bbcmicrobit_v2.html#frameworks)
+  * [PIO Nordic nRF52](https://github.com/platformio/platform-nordicnrf52/tree/develop)
+
