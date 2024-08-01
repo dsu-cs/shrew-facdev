@@ -13,8 +13,10 @@ The following virtual machine images are set up with the requisite software for 
 * USB-A 2.0/3.0 ports (or USB-C adapter)
 
 ## Binaries
-
 The [binaries directory](https://github.com/dsu-cs/shrew-facdev/tree/main/binaries) has software reverse engineering exercises.
+
+## Firmware
+Sample firmware from physical devices is located in the [firmware directory](https://github.com/dsu-cs/shrew-facdev/tree/main/firmware)
 
 ## Microbit
 The [microbit directory](https://github.com/dsu-cs/shrew-facdev/tree/main/microbit) contains sample projects for building binaries written with C++ or the Arduino framework. 
