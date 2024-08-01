@@ -3,7 +3,7 @@ Repo for the Software and Hardware Reverse Engineering Workshop (SHREW).
 
 ## Virtual Machines
 The following virtual machine images are set up with the requisite software for the workshop.
-* [Kali 2024.2 x86-64]() - for use with Intel-based processors.
+* [Kali 2024.2 x86-64](https://share.ialab.dsu.edu/CAE_Workshops/2024/SHREW/Kali-2024.2-x86-64.zip) - for use with Intel-based processors.
 * [Kali 2024.2 ARM64](https://share.ialab.dsu.edu/CAE_Workshops/2024/SHREW/Kali-2024.2-ARM.zip) - for use with ARM-based processors (e.g., Apple M2)
 
 ### System Requirements
