@@ -29,6 +29,7 @@ The [microbit directory](https://github.com/dsu-cs/shrew-facdev/tree/main/microb
 ## Resources 
 * [The Hardware Hacking Handbook](https://nostarch.com/hardwarehacking)
 * [Ghidra Cheat Sheet](https://ghidra-sre.org/CheatSheet.html) - keyboard shortcuts for Ghidra
+* [GhidraChatGPT](https://github.com/SourceDiver42/Ghidra-ChatGPT) - ChatGPT plugin for Ghidra
 * [Platform IO IDE (PIO)](https://platformio.org/platformio-ide) - VSCode plugin for writing embedded software (Arduino, MicroBit, etc.)
   * [PIO BBC micro:bit V2](https://docs.platformio.org/en/latest/boards/nordicnrf52/bbcmicrobit_v2.html#frameworks)
   * [PIO Nordic nRF52](https://github.com/platformio/platform-nordicnrf52/tree/develop)
