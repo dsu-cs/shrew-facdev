@@ -1,5 +1,7 @@
 # SHREW
-Repo for the Software and Hardware Reverse Engineering Workshop (SHREW). 
+Repo for the Software and Hardware Reverse 
+Engineering Workshop (SHREW). 
+![shrew-logo](https://github.com/dsu-cs/shrew-facdev/blob/main/images/shrewlogo.jpg?raw=true)
 
 ## Virtual Machines
 The following virtual machine images are set up with the requisite software for the workshop.
